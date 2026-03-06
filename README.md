@@ -22,5 +22,12 @@ python distill.py --model "MLP" --loss 'unis_crd' --model_name './ModelSave/EYE_
 ```
 ## Citation
 If you find this project helpful, please cite:
-
-Kan S, Wu H, Cui Z, et al. CMCRD: Cross-Modal Contrastive Representation Distillation for Emotion Recognition[J]. IEEE Transactions on Affective Computing, 2026.
+```python
+@article{kan2026cmcrd,
+  title={CMCRD: Cross-Modal Contrastive Representation Distillation for Emotion Recognition},
+  author={Kan, Siyuan and Wu, Huanyu and Cui, Zhenyao and Huang, Fan and Xu, Xiaolong and Wu, Dongrui},
+  journal={IEEE Transactions on Affective Computing},
+  year={2026},
+  publisher={IEEE}
+}
+```
